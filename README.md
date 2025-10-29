@@ -1,5 +1,7 @@
 # Numerical-Methods-Matlab
 
+Collection of Matlab Scripts from ECSE-343 Numerical Methods Class. Download the mlx files for better readibility.
+
 ## Assignment 1 – Linear Systems & LU Decomposition
 
 - Implemented LU decomposition and forward/backward substitution.
